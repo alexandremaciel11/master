@@ -1,0 +1,94 @@
+div#topo img{
+	    width: 260px;
+    height: 125px;
+}
+html{
+
+    height: 100%;
+    margin-bottom: 1px;
+        display: block;
+}
+
+body{
+
+	line-height: 100%;
+    color: #000;
+    width: 771px;
+    margin: 0 auto;
+}
+div#rodape{
+	text-align: center;
+}
+
+form.cadastro{
+	text-align: center;
+	font-size: 15px;
+
+}
+form.matricula{
+	color: blue;
+}
+
+tr.CL1{
+background: blue;
+}
+
+tr.CL2{
+background: white;
+}
+
+tr.art{
+background: yellow;
+color: white;
+}
+
+tr.art1{
+	background: gray;
+}
+
+tr.art2{
+	background: white;
+}
+
+tr.art3{
+	background: blue;
+	color: white;
+}
+
+form.contato{
+	text-align: center;
+	background: #99CCFF;
+}
+
+#txtnome{
+	border: 1px solid blue;
+	background: #CCFFFF;
+}
+
+#Site{
+	border: 1px solid blue;
+background: #CCFFFF;
+}
+
+#Email{
+	border: 1px solid blue;
+background: #CCFFFF;
+}
+
+#comentario{
+	border: 1px solid blue;
+background: #CCFFFF;
+}
+
+div#voltar img{
+   width: 100px;
+   height: 125px;
+
+}
+
+div#sucesso{
+
+	font-size: 30px;
+	text-align: center;
+	color: red;
+}
